@@ -17,3 +17,7 @@ Authorization: Basic admin:admin
 GET http://localhost:8080/guests HTTP/1.1
 Accept: application/json
 Authorization: Basic YWRtaW46UEBzc3cwcmQh
+
+###
+GET http://localhost:8080/party HTTP/1.1
+Accept: application/json
